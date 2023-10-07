@@ -1,0 +1,12 @@
+---
+:id: 100512737
+:submitters:
+- :name: Alessandro Landi
+  :email: al6723@nyu.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2021-11-16 05:19:50.556679000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2021-11-15 21:19:50.556679000 Z
+:status: processed
+:score: 89.0
